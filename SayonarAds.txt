@@ -1,0 +1,19 @@
+# --------------------------------------------
+#          ◆ SAYONAR(ADS) ◆
+# --------------------------------------------
+# Title: SAYONAR(ADS) FILTER
+# Description: Block Ads Filter
+# Format: filter
+# Entries: Add as per mood
+# Updated: Never
+# Source: AnySource
+# --------------------------------------------
+#
+# --------------------------------------------
+# SAYONAR(ADS) Have Been Said
+# ------------------------------------------
+0.0.0.0 fractionfridgejudiciary.com
+0.0.0.0 vip.stakeclick.com
+# --------------------------------------------
+# SAYONAR(ADS)
+# --------------------------------------------
