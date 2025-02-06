@@ -1,7 +1,8 @@
-Another useless experiment filter
-Direct Link below:
+Another useless experiment filters
+Directs Link below:
 
-[`SAYONAR(ADS)`](https://cdn.jsdelivr.net/gh/colemeg/uselessFilter@main/SAYONAR_ADS.txt)
+[`SAYONAR_ADS`](https://cdn.jsdelivr.net/gh/colemeg/uselessFilter@main/SAYONAR_ADS.txt)<br>
+[`SayonarAds`](https://cdn.jsdelivr.net/gh/colemeg/uselessFilter@main/SayonarAds.txt)
 
 See You Soon ! (don't think so)<br>
 End of story
