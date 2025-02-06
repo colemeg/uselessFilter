@@ -1,18 +1,12 @@
 # --------------------------------------------
 #          ◆ SAYONAR(ADS) ◆
 # --------------------------------------------
-#
-#
-# --------------------------------------------
-# P A C K  D E T A I L S
-# --------------------------------------------
 # Title: SAYONAR(ADS) FILTER
 # Description: Block Ads Filter
 # Format: filter
 # Entries: Add as per mood
 # Updated: Never
 # Source: AnySource
-# Developer & Maintainer: Jerry [jerryn70] XDA Senior Member
 # --------------------------------------------
 #
 # --------------------------------------------
