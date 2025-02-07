@@ -1,9 +1,13 @@
 # --------------------------------------------
+# SAYONAR(ADS)
+# --------------------------------------------
+
+# --------------------------------------------
 #          ◆ SAYONAR(ADS) ◆
 # --------------------------------------------
-# Title: SAYONAR(ADS) FILTER
-# Description: Block Ads Filter
-# Format: filter
+# Title: SAYONAR(ADS) Hosts
+# Description: Block Ads Hosts
+# Format: Hosts
 # Entries: Add as per mood
 # Updated: Never
 # Source: AnySource
@@ -14,6 +18,9 @@
 # ------------------------------------------
 0.0.0.0 fractionfridgejudiciary.com
 0.0.0.0 vip.stakeclick.com
+0.0.0.0 pv.tkcdns.com
+0.0.0.0 s.pemsrv.com
+0.0.0.0 b-hls-18.sacdn
 # --------------------------------------------
 # SAYONAR(ADS)
 # --------------------------------------------
