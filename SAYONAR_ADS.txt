@@ -18,14 +18,8 @@
 ||s.pemsrv.com^
 ||b-hls-18.sacdn^
 
-! Block BlockAdblock detection scripts
-*##+js(nosiif, visibility, 1000)
-*##script:inject(bab-defuser.js)
-*##+js(set, _babasb, true)
-*##+js(set, fuckAdBlock, true)
-
-jav.guru##+js(nosiif, visibility, 1000)
-jav.guru##+js(set, fuckAdBlock, true)
-jav.guru##+js(set, blockAdBlock, true)
-jav.guru##+js(set, _babasb, true)
-jav.guru##+js(nostif, adBlockDetected, 1000)
+##+js(nosiif, visibility, 1000)
+##+js(set, fuckAdBlock, true)
+##+js(set, blockAdBlock, true)
+##+js(set, _babasb, true)
+##+js(nostif, adBlockDetected, 1000)
