@@ -1,5 +1,5 @@
 # --------------------------------------------
-#          ◆ SAYONAR(ADS) ◆
+# ◆ SAYONAR(ADS) ◆
 # --------------------------------------------
 # Title: SAYONAR(ADS) FILTER
 # Description: Block Ads Filter
@@ -23,3 +23,6 @@
 ##+js(set, blockAdBlock, true)
 ##+js(set, _babasb, true)
 ##+js(nostif, adBlockDetected, 1000)
+# --------------------------------------------
+# ◆ SAYONAR(ADS) ◆
+# --------------------------------------------
