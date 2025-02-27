@@ -17,6 +17,7 @@
 ||pv.tkcdns.com^
 ||s.pemsrv.com^
 ||b-hls-18.sacdn^
+||b-hls-18.sacdnssedge.com^
 ||preview1.anyhentai.com^
 
 ##+js(nosiif, visibility, 1000)
