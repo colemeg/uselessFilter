@@ -19,6 +19,12 @@
 0.0.0.0 b-hls-18.sacdn
 0.0.0.0 b-hls-18.sacdnssedge.com
 0.0.0.0 preview1.anyhentai.com
+0.0.0.0 s3t3d2y8.afcdn.net
+0.0.0.0 afcdn.net
+0.0.0.0 anyhentai.com
+0.0.0.0 sacdnssedge.com
+0.0.0.0 sacdn
+
 # --------------------------------------------
 # ◆ SAYONAR(ADS) ◆
 # --------------------------------------------
