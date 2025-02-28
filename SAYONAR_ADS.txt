@@ -19,6 +19,11 @@
 ||b-hls-18.sacdn^
 ||b-hls-18.sacdnssedge.com^
 ||preview1.anyhentai.com^
+||s3t3d2y8.afcdn.net^
+||afcdn.net^
+||anyhentai.com^
+||sacdnssedge.com^
+||sacdn^
 
 ##+js(nosiif, visibility, 1000)
 ##+js(set, fuckAdBlock, true)
